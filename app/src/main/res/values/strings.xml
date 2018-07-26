@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMEI BOX</string>
+    <string name="clear">Clear</string>
+    <string name="Analyze">Analyze</string>
+    <string name="Butto">My IMEI</string>
+    <string name="Check_Box">Also fetch data from www.imei.info</string>
+    <string name="W_text">Enter the IMEI nunber (14 or 15 digits):</string>
+</resources>
